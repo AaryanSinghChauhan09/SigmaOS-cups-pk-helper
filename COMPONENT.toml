@@ -3,7 +3,7 @@ name = "SigmaOS-cups-pk-helper"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "cups-pk-helper component"
+description = "SigmaOS SigmaOS-cups-pk-helper component"
 upstream = []
 
 [contract]
